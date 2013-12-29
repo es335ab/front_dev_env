@@ -1,6 +1,6 @@
 {
   "name": "front_dev_env",
   "dependencies": {
-    "jquery": null
+    "jquery": "~2.0.3"
   }
 }
