@@ -1,5 +1,6 @@
+=======
 Front-end development environment
-=====
+=============
 
 ### Instal command
 ```shell
